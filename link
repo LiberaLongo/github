@@ -1,0 +1,19 @@
+browser https://github.com/LiberaLongo/github
+ssh git@github.com:LiberaLongo/github.git
+git remote -v
+mostra il link ssh (git@...) non https://...
+csunibo web https://csunibo.github.io/
+click sul link 'Laboratori tra Pari'
+folder '2023'
+risultato è https://risorse.students.cs.unibo.it/lab/2023?
+
+welcome https://risorse.students.cs.unibo.it/lab/2023/linux-terminale-welcome-lucidi.pdf?
+terminale https://risorse.students.cs.unibo.it/lab/2023/00-terminale-base-lucidi.pdf?
+git1 https://risorse.students.cs.unibo.it/lab/2023/01-git1-comandi-base.pdf?
+git2 https://risorse.students.cs.unibo.it/lab/2023/02-git2-condivisione-remota.pdf?
+terminale avanzato ...
+
+(i pdf sono stati scaricati qua per sicurezza)
+
+(i volantini non so se sono stati pubblicati)
+
